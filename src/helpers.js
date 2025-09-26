@@ -59,7 +59,7 @@ export const hatchArray = Array.from({ length: 24 }).map((_, index) => {
     img,
     type: sorpresa.type,
     text: sorpresa.text,
-    open: index + 1 <= hoy
+    open: false
   };
 });
 
