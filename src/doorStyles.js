@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import doorBackdrop from "./img/door_backdrop.jpg";
-import snowflakes from "./img/snowflakes.png";
+import doorBackdrop from "./img/door_backdrop.webp";
+import snowflakes from "./img/snowflakes.webp";
 
 
 export const StyledDoor = styled.div`

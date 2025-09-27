@@ -1,13 +1,13 @@
-import Door1 from "./img/doors/1.jpg";
-import Door2 from "./img/doors/2.jpg";
-import Door3 from "./img/doors/3.jpg";
-import Door4 from "./img/doors/4.jpg";
-import Door5 from "./img/doors/5.jpg";
-import Door6 from "./img/doors/6.jpg";
-import Door7 from "./img/doors/7.jpg";
-import Door8 from "./img/doors/8.jpg";
-import Door9 from "./img/doors/9.jpg";
-import Door10 from "./img/doors/10.jpg";
+import Door1 from "./img/doors/1.webp";
+import Door2 from "./img/doors/2.webp";
+import Door3 from "./img/doors/3.webp";
+import Door4 from "./img/doors/4.webp";
+import Door5 from "./img/doors/5.webp";
+import Door6 from "./img/doors/6.webp";
+import Door7 from "./img/doors/7.webp";
+import Door8 from "./img/doors/8.webp";
+import Door9 from "./img/doors/9.webp";
+import Door10 from "./img/doors/10.webp";
 
 const doorImages = [Door1, Door2, Door3, Door4, Door5, Door6, Door7, Door8, Door9, Door10];
 

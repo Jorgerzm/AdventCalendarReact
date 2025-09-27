@@ -3,7 +3,7 @@ import { createGlobalStyle } from "styled-components";
 import { Container } from "./AppStyles";
 import { createCalendar } from "./helpers";
 import Door from "./door";
-import Appbackground from "./img/calendar_backdrop.jpg"
+import Appbackground from "./img/calendar_backdrop.webp"
 
 
 const GlobalStyle = createGlobalStyle`
