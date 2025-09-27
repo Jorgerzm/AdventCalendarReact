@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import doorBackdrop from "./img/door_backdrop.webp";
-import snowflakes from "./img/snowflakes.webp";
 
 
 export const StyledDoor = styled.div`
@@ -65,17 +64,6 @@ export const StyledDoor = styled.div`
 
     &.open {
       transform: rotateY(180deg);
-    }
-
-    /* Nieve animada */
-    &::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: url(${snowflakes}) repeat;
-      opacity: 0.2;
-      animation: snow 15s linear infinite;
-      border-radius: 20px;
     }
   }
 
