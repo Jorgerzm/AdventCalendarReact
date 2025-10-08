@@ -59,6 +59,3 @@ La aplicación estará disponible en `http://localhost:3000`.
 - `npm start`: Inicia la aplicación en modo desarrollo.
 - `npm test`: Ejecuta los tests.
 - `npm run build`: Genera una versión de producción.
-
-## Licencia
-Este proyecto está bajo la licencia MIT.
